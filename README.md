@@ -19,7 +19,7 @@ Microsoft Edge Copilot build into minecraft java
 ## User Guide
 
 1. Within the `ai.py` file, you can add a hardcoded prompt. Copilot will then enforce that rule no matter what prompt you give alongside in Minecraft. Find comments within the `ai.py` file indicating where you can add a hardcoded prompt. Example: always reply to your responses in Spanish.
-2. You can use the AI by typing `\ai "your prompt"` in the Minecraft chat (note the quotation marks are required). Other players will not see you typing your message, and they will also not see the response from the AI.
+2. You can use the AI by typing `\ai "your prompt"` in the Minecraft chat (note the quotation marks are NOT required). Other players will not see you typing your message, and they will also not see the response from the AI.
 
 ## Known Problems
 
