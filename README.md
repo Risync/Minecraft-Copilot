@@ -25,8 +25,12 @@ Microsoft Edge Copilot build into minecraft java
 
 - Copilot may not allow you to request a message. If this is the case, check the Sydney documentation for known issues. A common issue is the need to define cookies in certain regions. You can find a tutorial on how to add cookies in the Sydney documentation [here](https://github.com/vsakkas/sydney.py).
 
-## Example of a good hardcoded prompt:
-`"1: Do not try to reference links using brackets like this [^1], Numerical referencing is not available. it will not work as the player is receiving your response in minecraft, this will not be clickable link so make sure to always exclude it from your response."
-"2: VERY IMPORTANT never cite a source, or post links to websites, this will cause errors for our use case."
-"3: VERY IMPORTANT DO NOT use emoji's in your response."
-"4: A players Question Will follow after this sentence:"`
+## Examples of a good hardcoded prompt:
+
+`"1: Do not try to reference links using brackets like this [^1], Numerical referencing is not available. it will not work as the player is receiving your response in minecraft, this will not be clickable link so make sure to always exclude it from your response."`
+
+`"2: VERY IMPORTANT never cite a source, or post links to websites, this will cause errors for our use case."`
+
+`"3: VERY IMPORTANT DO NOT use emoji's in your response."`
+
+`"A players Question Will follow after this sentence:"`
